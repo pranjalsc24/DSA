@@ -1,4 +1,4 @@
-package numbers;
+
 
 // In this we have to consider if remainder is 0 then when we divide the number with 0 
 // it will always come infinity or undefied hence we have to give condition in If block
